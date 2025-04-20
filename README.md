@@ -5,7 +5,7 @@ A regional correction is applied to the Priestly Taylor model in this project to
 
 Precision irrigation means farmers use less water—without hurting crop yields. That saves water for our lakes, rivers, and communities. It also helps keep farming sustainable during hotter, drier seasons and protects local ecosystems. This project helped to support smarter agriculture, water conservation, and a healthier planet.
 
-
+</p>
 
 
 
